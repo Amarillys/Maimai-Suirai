@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DNS on Maimai Suirai</title>
+    <link>/tags/dns/</link>
+    <description>Recent content in DNS on Maimai Suirai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 04 Mar 2025 20:49:58 +0800</lastBuildDate>
+    <atom:link href="/tags/dns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>360 DoH 带污染，请不要使用</title>
+      <link>/2025/03/doh-no-360/</link>
+      <pubDate>Tue, 04 Mar 2025 20:49:58 +0800</pubDate>
+      <guid>/2025/03/doh-no-360/</guid>
+      <description>&lt;p&gt;今天也是怪，突然就上不去arcaea维基了，用手机联通网试了下，手机倒是可以上，电脑上的dns解析不到ip了。&lt;/p&gt;&#xA;&lt;p&gt;一顿折腾，卸掉了运行不能的mosdns，然后换成了这个：&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;opkg install https-dns-proxy luci-app-https-dns-proxy luci-i18n-https-dns-proxy-zh-cn&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

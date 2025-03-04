@@ -2,19 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/2025/03/doh-no-360/</loc>
+    <lastmod>2025-03-04T20:49:58+08:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2025-03-04T20:49:58+08:00</lastmod>
+  </url><url>
+    <loc>/tags/dns/</loc>
+    <lastmod>2025-03-04T20:49:58+08:00</lastmod>
+  </url><url>
     <loc>/</loc>
-    <lastmod>2024-01-17T00:03:14+08:00</lastmod>
+    <lastmod>2025-03-04T20:49:58+08:00</lastmod>
+  </url><url>
+    <loc>/tags/network/</loc>
+    <lastmod>2025-03-04T20:49:58+08:00</lastmod>
+  </url><url>
+    <loc>/categories/network/</loc>
+    <lastmod>2025-03-04T20:49:58+08:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
-    <lastmod>2024-01-17T00:03:14+08:00</lastmod>
+    <lastmod>2025-03-04T20:49:58+08:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-03-04T20:49:58+08:00</lastmod>
   </url><url>
     <loc>/2024/01/system-informer-cn/</loc>
     <lastmod>2024-01-17T00:03:14+08:00</lastmod>
   </url><url>
     <loc>/2023/12/hp-elite-x2-1012g1-fun/</loc>
-    <lastmod>2023-12-20T17:11:42+08:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
     <lastmod>2023-12-20T17:11:42+08:00</lastmod>
   </url><url>
     <loc>/categories/diary/</loc>
@@ -27,9 +42,6 @@
     <lastmod>2023-12-20T17:11:42+08:00</lastmod>
   </url><url>
     <loc>/tags/tablet/</loc>
-    <lastmod>2023-12-20T17:11:42+08:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2023-12-20T17:11:42+08:00</lastmod>
   </url><url>
     <loc>/tags/windows/</loc>
