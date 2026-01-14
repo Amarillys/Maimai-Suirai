@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Camera on Maimai Suirai</title>
+    <link>/categories/camera/</link>
+    <description>Recent content in Camera on Maimai Suirai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 14 Jan 2026 12:00:21 +0800</lastBuildDate>
+    <atom:link href="/categories/camera/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>相册 2026-01</title>
+      <link>/2026/01/camera-2601/</link>
+      <pubDate>Wed, 14 Jan 2026 12:00:21 +0800</pubDate>
+      <guid>/2026/01/camera-2601/</guid>
+      <description>使用Sony ZVE10拍摄，有永诺35mm f/1.8 ART 和 SONY 55210镜头拍摄</description>
+    </item>
+  </channel>
+</rss>

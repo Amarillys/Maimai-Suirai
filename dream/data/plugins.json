@@ -3,8 +3,8 @@
     "apiKey": "2f8430444ac94ec68d1e112a523ec064",
     "location": {
       "name": "深圳龙华",
-      "latitude": 114.0385,
-      "longitude": 22.626
+      "latitude": 114.0418,
+      "longitude": 22.6724
     },
     "location2": {
       "name": "武汉洪山",
@@ -35,12 +35,13 @@
       "url": "https://ithome.com",
       "color": "blue"
     }, {
-      "name": "KaiHeiLa",
-      "url": "https://www.kaiheila.cn/",
-      "color": "blue"
+      "name": "博板堂",
+      "url": "http://boardchannels.com.cn",
+      "color": "blue",
+      "icon": "bbt.webp"
     }, {
       "name": "Pixiv#KK",
-      "url": "https://www.pixiv.net/tags/キャラ配布(コイカツ)/artworks",
+      "url": "https://www.pixiv.net/tags/キャラ配布(コイカツ)%20ロリ/artworks",
       "color": "blue"
     }, {
       "name": "Github",
@@ -50,6 +51,26 @@
       "name": "Kemono",
       "url": "https://kemono.party/favorites",
       "color": "blue"
+    }, {
+      "name": "南+AI交流",
+      "url": "https://www.south-plus.net/thread.php?fid-208.html",
+      "color": "grey",
+      "icon": "south-plus.png"
+    }, {
+      "name": "ChipHell",
+      "url": "https://www.chiphell.com/forum-146-1.html",
+      "color": "red",
+      "icon": "chh.png"
+    }, {
+      "name": "iKuuu",
+      "url": "https://ikuuu.de/user/",
+      "color": "white",
+      "icon": "ikuuu.webp"
+    }, {
+      "name": "Meta",
+      "url": "http://10.0.0.1:9090/ui/metacubexd/#/proxies",
+      "color": "black",
+      "icon": "MetaCubexd.svg"
     }]
   }
 }
